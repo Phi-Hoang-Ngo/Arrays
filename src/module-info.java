@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author abstr
+ *
+ */
+module arrays {
+}
